@@ -1,0 +1,13 @@
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\obj\Debug\netcoreapp3.1\Estacionamento-V2.csprojAssemblyReference.cache
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\obj\Debug\netcoreapp3.1\Estacionamento-V2.AssemblyInfoInputs.cache
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\obj\Debug\netcoreapp3.1\Estacionamento-V2.AssemblyInfo.cs
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\obj\Debug\netcoreapp3.1\Estacionamento-V2.csproj.CoreCompileInputs.cache
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\bin\Debug\netcoreapp3.1\Estacionamento-V2.exe
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\bin\Debug\netcoreapp3.1\Estacionamento-V2.deps.json
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\bin\Debug\netcoreapp3.1\Estacionamento-V2.runtimeconfig.json
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\bin\Debug\netcoreapp3.1\Estacionamento-V2.runtimeconfig.dev.json
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\bin\Debug\netcoreapp3.1\Estacionamento-V2.dll
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\bin\Debug\netcoreapp3.1\Estacionamento-V2.pdb
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\obj\Debug\netcoreapp3.1\Estacionamento-V2.dll
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\obj\Debug\netcoreapp3.1\Estacionamento-V2.pdb
+D:\Estudos\Programacao\C#\0 - 0.001 Projeto\Estacionamento Refatorado\Estacionamento V2\Estacionamento-V2\Estacionamento-V2\obj\Debug\netcoreapp3.1\Estacionamento-V2.genruntimeconfig.cache

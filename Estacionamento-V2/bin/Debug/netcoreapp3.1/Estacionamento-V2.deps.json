@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Estacionamento-V2/1.0.0": {
+        "runtime": {
+          "Estacionamento-V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estacionamento-V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
